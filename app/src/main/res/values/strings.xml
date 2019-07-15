@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1 </string>
+    <string name="name">Kelvin Ogega</string>
+    <string name="track">Track:    Android</string>
+    <string name="country">Country:    Kenya</string>
+    <string name="email">Email:    ogega.kelvin@gmail.com</string>
+    <string name="phone">phone number:    254704843430</string>
+    <string name="slack">Slack Username:    Ogega</string>
+    <string name="label_b">About ALC</string>
+    <string name="label_c">My Profile</string>
+
+
+</resources>
