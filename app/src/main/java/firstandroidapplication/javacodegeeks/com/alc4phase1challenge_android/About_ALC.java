@@ -38,7 +38,7 @@ public class About_ALC extends Activity {
     private class MyBrowser extends WebViewClient {
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {
-            view.loadUrl("https://digger.co.ke/nairobi-kenya/tenders/");
+            view.loadUrl("https://andela.com/alc/");
             return true;
         }
         @Override
